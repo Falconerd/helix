@@ -1,0 +1,10 @@
+theme = "deepc"
+
+[editor]
+true-color = true
+idle-timeout = 0
+line-number = "relative"
+gutters = ["diagnostics", "spacer"]
+
+[keys.normal]
+x = "extend_line"

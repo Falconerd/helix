@@ -1,0 +1,11 @@
+#[[language]]
+#name = "c"
+#scope = "source.c"
+#file-types = ["c", "h"]
+#indent = { tab-width = 4, unit = " " }
+#text-width = 80
+#comment-token = "//"
+#auto-format = false
+#roots = ["build.sh", "build.bat", "src"]
+#formatter = { command = "clang-format -" }
+#formatter = { command = "clang-format --style=\"{Language: C, IndentWidth: 4, TabWidth: 4, ColumnLimit: 80, BreakBeforeBraces: Attach, SortIncludes: false}\" - "}

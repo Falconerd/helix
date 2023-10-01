@@ -1,0 +1,4 @@
+inherits = "adwaita-dark"
+
+# This is a comment.
+comment = { bg = "#421313", fg = "#ffaaaa" }

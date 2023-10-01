@@ -1,0 +1,16 @@
+inherits = "ayu_dark"
+
+# This is a comment
+"ui.background" = { bg ="#102223" }
+# "ui.text" = { fg = "#deffde" }
+"comment" = { fg = "#00db00" }
+# "string" = { fg = "#88cc88" }
+# "variable" = { fg = "#deffde" }
+# "constant" = { fg = "#cccc43" }
+# "type" = { fg = "#aeffae" }
+# "keyword" = { fg = "#77ee77" }
+# "function" = { fg = "#77ee77" }
+
+[palette]
+black = "#071d1c"
+# green = "#00db00"
